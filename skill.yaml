@@ -1,0 +1,5 @@
+name: "xauusd-m1-ict-smc"
+title: "XAUUSD M1 ICT SMC Analysis"
+description: "Analyse OANDA XAUUSD on M1 with multi-timeframe ICT SMC plus LIT trap filter and Cyzner bias discipline, and give one confirmed setup or WAIT in short Persian."
+category: "Work and knowledge"
+include_in_prompt: true
